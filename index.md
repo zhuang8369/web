@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 贺州学院
 
 You can use the [editor on GitHub](https://github.com/zhuang8369/web/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
